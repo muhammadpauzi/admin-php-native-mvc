@@ -1,0 +1,16 @@
+{
+    "name": "muhammadpauzi/web-pos-php-native",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Module\\": "modules/"
+        }
+    },
+    "authors": [
+        {
+            "name": "muhammadpauzi",
+            "email": "muhammadpauzi200@gmail.com"
+        }
+    ],
+    "require": {}
+}
